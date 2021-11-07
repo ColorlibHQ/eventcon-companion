@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.eventcon-pt-100 {
+    padding-top: 100px;
+}
+.eventcon-pt-80 {
+    padding-top: 80px;
+}
+.eventcon-pt-70 {
+    padding-top: 70px;
+}
+.eventcon-pt-60 {
+    padding-top: 60px;
+}
+.eventcon-pt-50 {
+    padding-top: 50px;
+}
+.eventcon-pt-30 {
+    padding-top: 30px;
+}
+.eventcon-pb-100 {
+    padding-bottom: 100px;
+}
+.eventcon-pb-80 {
+    padding-bottom: 80px;
+}
+.eventcon-pb-70 {
+    padding-bottom: 70px;
+}
+.eventcon-pb-60 {
+    padding-bottom: 60px;
+}
+.eventcon-pb-50 {
+    padding-bottom: 50px;
+}
+.eventcon-pb-30 {
+    padding-bottom: 30px;
+}
